@@ -38,10 +38,8 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-*Hai,* %name! 👋
+*Hai,* %name! Jangan Lupa Donasinya !!! 👋
 *Hari:* %week
-*Bulan:* %date
-*Waktu:* %time
 *Uptime:* %uptime (%muptime)
 *Database:* %rtotalreg of %totalreg 
 *Prefix:* *[ %p ]*
